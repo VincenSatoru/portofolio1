@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\Portofolioogustiarno\resources\views/components/home/video-tutorials.blade.php ENDPATH**/ ?>
